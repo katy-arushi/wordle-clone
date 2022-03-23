@@ -1,5 +1,7 @@
 # Wordle Clone
 
+### Check it out [here](https://katy-arushi.github.io/wordle-clone/)!
+
 Made from [this](https://www.youtube.com/watch?v=Wak7iN4JZzU) tutorial from [WebDevSimplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw).
 
 This tutorial was great! It was a great refresher of DOM manipulation, JavaScript functions and dynamically adding classes. I also learned a bit about CSS animation and data attributes in HTML.
